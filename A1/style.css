@@ -1,0 +1,25 @@
+.highlighter{
+background-color : #405D72;
+color: #E68369;
+text-align:center ;
+}
+.image1{
+    justify-content: center;
+    justify-items: center;
+    height: 250px;
+    width: 250px;
+    
+}
+.bg{
+    background-color: rgb(200, 243, 243);
+}
+.para{
+    color:#405D72 ;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+.image2{
+    float: right;
+    height: 250px;
+    width: 250px;
+}
